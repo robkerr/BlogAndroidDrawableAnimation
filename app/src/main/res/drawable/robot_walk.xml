@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_start_1"/>
+
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_start_2"/>
+
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_start_3"/>
+
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_start_4"/>
+
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_start_5"/>
+
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_1"/>
+
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_2"/>
+
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_3"/>
+
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_4"/>
+
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_5"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_6"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_7"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_8"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_9"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_10"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_11"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_12"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_13"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_14"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_15"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_16"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_17"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_18"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_19"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_20"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_21"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_22"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_23"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_24"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_25"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_26"/>
+    <item
+        android:duration="100"
+        android:drawable="@mipmap/robot_walk_27"/>
+</animation-list>
